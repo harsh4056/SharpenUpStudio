@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/l1"
+    android:padding="10dp" 
+    android:background="@drawable/tt"
+    >
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DATE"
+         android:layout_marginTop="70dp"
+        android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/dayatten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="DAY"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    
+    <TextView
+        android:id="@+id/subject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="SUBJECT"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/present"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Present"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     <TextView
+        android:id="@+id/absent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Absent"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+     
+      <TextView
+        android:id="@+id/noclass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="No class"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+       <TextView
+        android:id="@+id/leave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Leave"
+         android:textColor="@color/main_color_gray_dk"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+    
+</LinearLayout>

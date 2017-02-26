@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    
+    >
+
+
+    
+   <LinearLayout
+      android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/pad_20dp"
+        android:paddingLeft="@dimen/pad_15dp"
+        android:paddingRight="@dimen/pad_15dp"
+        android:paddingTop="@dimen/pad_20dp">
+        
+       
+        <Spinner
+            android:id="@+id/cent"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff" />
+
+        <Spinner
+            android:id="@+id/batch"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff" />
+
+        <Spinner
+            android:id="@+id/myclass"
+           style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:layout_marginTop="30dp"
+            android:layout_weight="0.50"
+            android:text="SCHEDULE DATE"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textpdh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:onClick="date_pend_high_range"
+            android:text="Upper Limit"
+            android:clickable="true"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Spinner
+            android:id="@+id/fac"
+           style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+           
+            android:textColor="#ffffff" />
+
+        <Spinner
+            android:id="@+id/sub"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+           
+            android:textColor="#ffffff" />
+         <Spinner
+            android:id="@+id/toptt"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+           
+            android:textColor="#ffffff" />
+         <Button
+        android:id="@+id/submit_cal"
+       style="@style/btn_white_large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/pad_5dp"
+     
+        android:textColor="#ffffff" 
+        android:text="SUBMIT" />
+         
+         
+
+    </LinearLayout>
+
+   
+
+
+</ScrollView>
+

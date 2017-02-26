@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\eclipse-jee-mars-1-win32-x86_64\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_37c9722c956576864fb130aaf2cffb942695fe87\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_6869f1be71f807e5045013161bdc51f5b740e10e\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="569f6ed90da28a663b254abf755cdd03624b0b50">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c46d3680e3a07d71bb58ed5c811bf245753e2742\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_685db4ce63ec6bf3f51707a77667152f2ef2884b\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_e038cbd2bb9ffa4bede6e1a60a770409f04b23d6\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pnikosis-materialish-progress-1.0_2e79bbded4e6e38c1ca21e5b454bdaea34963e91\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_df25d269cfec527f3b51218d407767b07750d104\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7fbfcef2d38515a009cd858f43f1666570dbc5b">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4eab8a3e8e2a4392042c195d98be6e3479fcdf1a\classes.dex" />
+    </item>
+    <item
+        jar="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\idm\Compressed\android rars\update\update\SharpenUpStudio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_98ec624fde3361d6be32d82ca4ad5182f66c908a\classes.dex" />
+    </item>
+
+</items>

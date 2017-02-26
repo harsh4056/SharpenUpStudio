@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+     android:id="@+id/l1"
+   
+    android:orientation="vertical"
+    android:background="@drawable/tt" >
+
+    <TextView
+        android:id="@+id/rank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DATE"
+        android:layout_marginTop="30dp"
+         android:textColor="@color/main_color_gray"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="DAY"
+         android:textColor="@color/main_color_gray"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/population"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="SUBJECT"
+         android:textColor="@color/main_color_gray"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+
+    <TextView
+        android:id="@+id/country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_marginTop="10dp"
+        android:text="FACULTY"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/main_color_gray" />
+    
+    <TextView
+        android:id="@+id/t_tt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="TOPIC"
+         android:textColor="@color/main_color_gray"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

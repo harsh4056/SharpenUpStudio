@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:background="@color/white"
+>
+
+     <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/pad_20dp"
+        android:paddingLeft="@dimen/pad_15dp"
+        android:paddingRight="@dimen/pad_15dp"
+        android:paddingTop="@dimen/pad_20dp" >
+        <EditText
+            android:id="@+id/name"
+             style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Student Name"
+            >
+
+            <requestFocus />
+        </EditText>
+        
+        <EditText
+            android:id="@+id/username"
+             style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Username"
+            >
+              
+        </EditText>
+        
+
+         
+        
+
+        <Spinner
+            android:id="@+id/batchreg"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff" />
+         <Spinner
+            android:id="@+id/parent"
+          style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff" />
+
+        
+        <Spinner
+            android:id="@+id/cls"
+           style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff"/>
+
+       
+
+        <Spinner
+            android:id="@+id/centre"
+           style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:textColor="#ffffff"/>
+
+        <EditText
+            android:id="@+id/school"
+             style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="School details"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/date_of_join"
+             style="@style/btn_white_large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/pad_5dp"
+            android:onClick="join_date"
+            android:text="Date Of Joining"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/date_1"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="110dp"
+            android:layout_weight="0.09"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:color="#ffffff" />
+
+        <EditText
+            android:id="@+id/comment"
+              style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Preferred Comment"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/Prev_res"
+           style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Previous Results"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/van"
+             style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Van Select"
+            android:inputType="text"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/admts"
+             style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:hint="Admissiont Scores"
+            android:inputType="text"
+            android:singleLine="true" />
+        <Button
+            android:id="@+id/submit"
+            style="@style/btn_white_large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/pad_5dp"
+            android:onClick="submit"
+            android:text="SUBMIT"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+</ScrollView>

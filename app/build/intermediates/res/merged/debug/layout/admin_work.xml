@@ -1,0 +1,47 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:gravity="center_horizontal"
+         android:orientation="vertical"
+         android:paddingBottom="@dimen/pad_20dp"
+         android:paddingLeft="@dimen/pad_15dp"
+         android:paddingRight="@dimen/pad_15dp"
+         android:paddingTop="@dimen/pad_20dp" >
+    <Button
+        android:id="@+id/addtopic"
+       style="@style/btn_white_large"
+                android:layout_width="wrap_content"
+                  android:layout_marginTop="@dimen/pad_5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+        android:onClick="addTopic"
+        android:text="Add topics" />
+
+    <Button
+        android:id="@+id/submission"
+       style="@style/btn_white_large"
+                android:layout_width="wrap_content"
+                  android:layout_marginTop="@dimen/pad_5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+        android:onClick="percent_subs"
+        android:text="% Submission" />
+
+    <Button
+        android:id="@+id/completion"
+       style="@style/btn_white_large"
+                android:layout_width="wrap_content"
+                  android:layout_marginTop="@dimen/pad_5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+        android:onClick="percent_comps"
+        android:text="% Completion" />
+</LinearLayout>
+</ScrollView>

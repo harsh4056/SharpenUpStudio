@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sharpenup.customgridview"
+    android:versionCode="5"
+    android:versionName="1.5.1" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tisha_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="sharpenup.customgridview.homewall"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="sharpenup.customgridview.time_table"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.home"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.Settings"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.view_assign"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.viewtt_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.viewscores_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.testview_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.webview_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.srudatten_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.testmenu_student"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.MainActivityNew"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.MainActivityTeacher"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.LoginActivity2"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.LoginActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.view_atten"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.ScheduleClass"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.Entry"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.Main"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.marksfill"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.ViewPagerAdapter3"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.ViewPagerAdapter4"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.androidbegin.viewpagertutorial.view_scores"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.AttendanceActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.view"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.StudAtten"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.attenbuttons"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.ChooseClassOrTest"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.testSchedule"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.testmenu"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.testview"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.assignfac"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.marks_assign_View"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.upload"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.webview"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.viewscores"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.Wsubmission"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.AdminWorksheet"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.AddTopics"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.WorksheetActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.TeacherLogin"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.TeacherSubmission"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.TeacherCheck"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.TeacherSelect"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.Percent_submissions"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.Percent_completions"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.User"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.worksheet.UserLogin"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.LoginData"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.Pendings"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.MainData"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.buttons"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.admin"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.delete"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait"
+            android:theme="@style/WithoutBackground" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.SearchActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="Step Wise Filter"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="sharpenup.previous.sharpenup.SearchResults"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.NotificationManagement"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.ObserveTool"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.ObserveToolEntry"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.ChildReport"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="sharpenup.customgridview.synchronise"
+            android:configChanges="orientation|screenSize"
+            android:label="SharpenUp"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="sharpenup.customgridview.MyService"
+            android:enabled="true" />
+
+        <receiver android:name="sharpenup.customgridview.MyBroadcastReceiver" />
+
+        <activity android:name="sharpenup.customgridview.NameCorrection" />
+    </application>
+
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="Instantiatable">
+        <ignore path="src/sharpenup/androidbegin/viewpagertutorial/ViewPagerAdapter3.java" />
+    </issue>
+</lint>

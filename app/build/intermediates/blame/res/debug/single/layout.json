@@ -1,0 +1,1034 @@
+[
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_taken_dialogue.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\action_taken_dialogue.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_assign.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_assign.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\submission_dialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\submission_dialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cnd.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\cnd.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_main.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\search_main.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addhisaab.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addhisaab.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attendance.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\attendance.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_worksheet.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin_worksheet.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stud_attendance.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\stud_attendance.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opaque_text_view.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\opaque_text_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\students_worksheet.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\students_worksheet.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\webview_student.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_atten.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_atten.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testview_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testview_student.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\students.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\students.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stud_attendance.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\stud_attendance.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresults.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_main.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_main.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_reset.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\user_reset.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\webview_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teachersubmission.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teachersubmission.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mai.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_mai.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\observation_entry.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\observation_entry.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view_deletion.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_list_view_deletion.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teachersubmission.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teachersubmission.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_report.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\child_report.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerdialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\spinnerdialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teacherselect.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teacherselect.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_mem.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\add_mem.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_data.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login_data.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login2.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login2.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_stud.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login_stud.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_worksheet.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin_worksheet.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studatten_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studatten_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\submission_dialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\submission_dialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addingtopics.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addingtopics.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentlogin.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentlogin.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent_completions.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\percent_completions.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worksheet.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_worksheet.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\atom_pay_list_item.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\atom_pay_list_item.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\gridview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testschedule.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testschedule.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_work.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin_work.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_reset.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\user_reset.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentworkbook.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentworkbook.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testmenu_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testmenu_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stud_scores.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_stud_scores.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\students.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\students.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timetable.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\timetable.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\synchronise.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\synchronise.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresults.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assignfac.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\assignfac.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_admin.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_admin.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_single.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\grid_single.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentview.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentview.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_admin.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_admin.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\handled.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\handled.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choosett.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\choosett.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timetable.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\timetable.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pendings.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\pendings.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workbooktable.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\workbooktable.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\atom_pay_list_item.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\atom_pay_list_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worksheet_submission.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\worksheet_submission.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teacherlogin.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teacherlogin.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marks_assign.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\marks_assign.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marks_assign.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\marks_assign.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\reset.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\upload.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cnd.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\cnd.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attendance.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\attendance.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent_submissions.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\percent_submissions.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workbooktable.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\workbooktable.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_taken_dialogue.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\action_taken_dialogue.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_taken_dia.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\action_taken_dia.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entry.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\entry.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset_pass.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\reset_pass.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerdialognew.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\spinnerdialognew.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cnv.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\cnv.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addhisaab.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addhisaab.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\assignfac.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\assignfac.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\synchronise.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\synchronise.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\students_worksheet.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\students_worksheet.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testview_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testview_student.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_item3.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentview.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentview.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\atten.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\atten.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addingtopics.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addingtopics.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_atten.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_atten.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerdialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\spinnerdialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studatten_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studatten_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\handled.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\handled.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testmenu_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testmenu_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testview.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testview.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_stud.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login_stud.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homewall.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\homewall.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentlogin.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentlogin.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choosett.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\choosett.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login2.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login2.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_main.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\search_main.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view_deletion.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_list_view_deletion.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testschedule.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testschedule.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\gridview_item_layout.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewtt_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewtt_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtopics.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addtopics.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opaque_text_view.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\opaque_text_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testmenu.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testmenu.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_single.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\grid_single.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewscores.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewscores.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_worksheet.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_worksheet.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_item3.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teacherlogin.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teacherlogin.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_assign.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_assign.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtopics.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\addtopics.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studentworkbook.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\studentworkbook.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\atten.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\atten.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset_pass.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\reset_pass.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entry.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\entry.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customdialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\customdialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mai.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_mai.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_new.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_new.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_main.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewpager_main.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warn_dialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\warn_dialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\namecorrection.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\namecorrection.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\reset.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewscores_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewscores_student.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teacherselect.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\teacherselect.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\observation_entry.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\observation_entry.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testview.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testview.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cnv.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\cnv.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewtt_student.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewtt_student.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabledialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\tabledialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent_submissions.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\percent_submissions.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\worksheet_submission.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\worksheet_submission.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\warn_dialog.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\warn_dialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simplerow.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\simplerow.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\namecorrection.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\namecorrection.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wsubmission.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\wsubmission.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewscores.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewscores.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_report.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\child_report.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerdialognew.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\spinnerdialognew.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabledialog.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\tabledialog.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_work.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\admin_work.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pendings.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\pendings.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewscores_student.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\viewscores_student.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmservice.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\alarmservice.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmservice.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\alarmservice.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testmenu.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\testmenu.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simplerow.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\simplerow.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homewall.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\homewall.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\percent_completions.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\percent_completions.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_data.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\login_data.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_stud_scores.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\view_stud_scores.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_taken_dia.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\action_taken_dia.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_mem.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\add_mem.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\SharpenUpStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wsubmission.xml",
+        "source": "E:\\SharpenUpStudio\\app\\src\\main\\res\\layout\\wsubmission.xml"
+    },
+    {
+        "merged": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\upload.xml",
+        "source": "D:\\idm\\Compressed\\android rars\\update\\update\\SharpenUpStudio\\app\\src\\main\\res\\layout\\upload.xml"
+    }
+]

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/ll1"
+    android:padding="10dp"
+    android:background="@drawable/tt" >
+
+    <TextView
+        android:id="@+id/dat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:text="DATE"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#812034" />
+
+    <TextView
+        android:id="@+id/dayat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="DAY"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#812034" />
+
+    <TextView
+        android:id="@+id/subj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="SUBJECT"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#812034" />
+
+ <TextView
+     android:id="@+id/leav"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="10dp"
+     android:text="Leave"
+     android:textAppearance="?android:attr/textAppearanceLarge"
+     android:textColor="#812034" />
+ 
+    <TextView
+        android:id="@+id/pres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Present"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#812034" />
+     
+    <TextView
+        android:id="@+id/cutoff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Cut Off"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#812034" />
+    
+</LinearLayout>
